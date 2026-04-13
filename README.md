@@ -56,11 +56,11 @@ This application allows users to upload medical PDFs and ask natural language qu
 
 
 ## 💡 Use Cases
-📊 Analyze blood test reports
-🧪 Extract medical values (BP, sugar, hemoglobin, etc.)
-🧾 Understand diagnostic reports
-🧠 Get explanations of medical terms
-📚 Summarize long medical documents
+- 📊 Analyze blood test reports
+- 🧪 Extract medical values (BP, sugar, hemoglobin, etc.)
+- 🧾 Understand diagnostic reports
+- 🧠 Get explanations of medical terms
+- 📚 Summarize long medical documents
 
 
 
