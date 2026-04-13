@@ -156,5 +156,5 @@ streamlit run app.py
 ---
 
 
-##⭐ If you like this project
+## ⭐ If you like this project
 Give it a star ⭐ and share your feedback!
