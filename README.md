@@ -141,16 +141,19 @@ Creating an **insight-driven AI system**, not just a chatbot.
 
 ## 📦 Installation
 
-```bash
 git clone https://github.com/akill005/Medical_Report_AI_Assistant_RAG.git
 cd Medical_Report_AI_Assistant_RAG
 pip install -r req.txt
 streamlit run app.py
 
+---
 
 ## 🔑 Setup
 - Get your Groq API key from: https://console.groq.com/keys/
 - Enter it in the sidebar
+
+
+---
 
 
 ##⭐ If you like this project
